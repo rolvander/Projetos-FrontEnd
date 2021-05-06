@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head>	<!--Facebook -->
+	<meta property="og:title" content="Projeto Landing Page">
+	<meta property="og:description" content="Primeiro projeto de exemplo de Landing Page">
+	<meta property="og:image" content="images/header_bg.png">
+	<meta property="og:url" content="adicionar url do site">
+
+	<!--Twitter -->
+	<meta property="twitter:title" content="Projeto Landing Page">
+	<meta property="twitter:description" content="Primeiro projeto de exemplo de Landing Page">
+	<meta property="twitter:image" content="images/header_bg.png">
+	<meta property="twitter:url" content="adicionar url do site">
+	<meta property="twitter:card" content="imagem_de_resumo">
+	
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0">
